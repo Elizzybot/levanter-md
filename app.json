@@ -1,7 +1,7 @@
 {
   "name": "levanter-md@1.0.0",
   "description": "Hi there, I am Levanter-MD Whatsapp Bot built in NodeJs and Baileys to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg",
   "keywords": ["whatsappbot", "levanterMd", "levanter Md bot", "Levanter-Md", "LevanterMdWhatsaooBot", "LevanterWaBot","LevanterMD","Levanter Md Whatsapp Bot","multi device"],
    "success_url": "/levanter-md/",
   "app_url": "/qr/",
